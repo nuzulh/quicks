@@ -1,0 +1,29 @@
+export type Icons = {
+  "add": string;
+  "arrow-down-light": string;
+  "arrow-left-light": string;
+  "arrow-left": string;
+  "bag-light": string;
+  "bookmark": string;
+  "chat-bubbles": string;
+  "chat-bubbles-light": string,
+  "clock": string;
+  "close": string;
+  "close-light": string;
+  "document": string;
+  "dots": string;
+  "linked": string;
+  "list-light": string;
+  "pencil": string;
+  "person-dark": string;
+  "person-light": string;
+  "person": string;
+  "quicks": string;
+  "search": string;
+  "search-light": string;
+  "square-checked-light": string;
+  "square-light": string;
+  "star": string;
+  "todo": string;
+  "todo-light": string,
+};
